@@ -1,0 +1,16 @@
+[{
+  "id": "1",
+  "testFunction": "identity",
+  "true_id": "2",
+  "false_id": null
+}, {
+  "id": "2",
+  "testFunction": "identity",
+  "true_id": "3",
+  "false_id": null
+}, {
+  "id": "3",
+  "testFunction": "identity",
+  "true_id": null,
+  "false_id": null
+}]
